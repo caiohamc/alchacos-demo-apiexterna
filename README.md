@@ -1,7 +1,6 @@
 # API EXTERNA
 Serviço responsável por consumir uma API externa com diversos REST clients 
 
----
 ### REQUEST
     {username} = caiohamc
 
@@ -11,7 +10,6 @@ Serviço responsável por consumir uma API externa com diversos REST clients
     GET /api/v1/resttemplate/{username}
     GET /api/v1/webclient/{username}
 
----
 ### RESPONSE
 
     {
