@@ -1,4 +1,4 @@
-# INTRODUÇÃO
+# API EXTERNA
 
 ---
 ## INTRODUÇÃO
